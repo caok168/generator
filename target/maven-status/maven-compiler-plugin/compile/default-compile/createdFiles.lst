@@ -1,0 +1,8 @@
+com/imooc/pojo/LockLots.class
+com/imooc/mapper/LotOrdersMapper.class
+GeneratorSqlmap.class
+com/imooc/mapper/CarStatusesMapper.class
+com/imooc/pojo/CarStatuses.class
+com/ck/demo/mapper/MyMapper.class
+com/imooc/mapper/LockLotsMapper.class
+com/imooc/pojo/LotOrders.class
